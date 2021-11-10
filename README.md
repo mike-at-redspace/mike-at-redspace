@@ -1,4 +1,4 @@
-👋  Hi I'm Mike Vardy!
+Hi I'm Mike Vardy! 👋 
 
 I am a Senior Full Stack Web Dev with a decade of helping brands tell their story online. Currently I work for [REDspace](redspace.com).
 
