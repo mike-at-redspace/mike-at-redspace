@@ -8,3 +8,6 @@ I am a Senior Full Stack Web Dev with a decade of helping brands tell their stor
 - 👪🏽  ... My wife Amanda and I have 2 teenagers, Logan & Kaity
 - 🤔  ... Problem solving is addictive and chase the feeling when my code works as intended
 - 🍺  ... I love craft beer, it's hard to pick a favourite but [FORGOTTEN LAKE BLUEBERRY ALE](https://www.lowbrewco.com/forgotten-lake/) comes pretty close
+
+<br>
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mike-at-redspace&theme=dark&layout=compact)
