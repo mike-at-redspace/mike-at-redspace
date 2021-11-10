@@ -1,6 +1,6 @@
 Hi I'm Mike Vardy! 👋 
 
-I am a Senior Full Stack Web Dev with a decade of helping brands tell their story online. Currently I work for [REDspace](redspace.com).
+I am a Senior Full Stack Web Dev with a decade of helping brands tell their story online. Currently I work full time for [REDspace](redspace.com) but if you have an interesting project you can read my [sales pictch](https://i-heart-php.github.io/me/) or connect with me on [LinkedIn](https://www.linkedin.com/in/mvardy/).
 
 # Did you know…?
 
