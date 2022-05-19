@@ -13,5 +13,5 @@ I am a Senior Full Stack Web Dev with a decade of experience helping brands tell
 
 <br>
 
-![](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
+![](https://raw.githubusercontent.com/mike-at-redspace/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/mike-at-redspace/github-stats-transparent/output/generated/languages.svg)
