@@ -13,4 +13,5 @@ I am a Senior Full Stack Web Dev with a decade of experience helping brands tell
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mike-at-redspace&theme=dark&layout=compact&count_private=true)
+![](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
