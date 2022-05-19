@@ -11,4 +11,8 @@ I am a Senior Full Stack Web Dev with a decade of experience helping brands tell
 
 <br>
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/mike-at-redspace/mike-at-redspace/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/mike-at-redspace/mike-at-redspace/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+<br>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mike-at-redspace&theme=dark&layout=compact&count_private=true)
