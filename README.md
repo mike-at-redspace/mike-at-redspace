@@ -5,7 +5,7 @@ I am a Senior Full Stack Web Dev with a decade of experience helping brands tell
 # Did you know…?
 
 - 🇨🇦  I am Canadian & live just couple hours east of Toronto in [Bellville, Ontario](https://en.wikipedia.org/wiki/Belleville,_Ontario).
-- 👨‍👩‍👧‍👦  &nbsp;My wife Amanda and I have 2 teenagers, Logan & Kaity ❤️
+- 👨‍👩‍👧‍👦  &nbsp;My wonderful wife Amanda and I have 2 amazing teenagers, Logan & Kaity ❤️
 - 🤔  I am addictive to problem solving, I live to chase the dopamine-reward rush when code works as intended
 - 🍺  I love craft beer, it's hard to pick a favourite but [FORGOTTEN LAKE BLUEBERRY ALE](https://www.lowbrewco.com/forgotten-lake/) comes pretty close
 
