@@ -1,6 +1,6 @@
 Hi I'm Mike Vardy! 👋 
 
-I am a Senior Full Stack Web Dev with a decade of experience helping brands tell their story online. Currently I work full time for [REDspace](redspace.com) and I geek out over clean code, sleek interfaces, and buttery smooth UX. If you have an interesting project you can read my [sales pitch](https://i-heart-php.github.io/me/) or connect with me on [LinkedIn](https://www.linkedin.com/in/mvardy/).
+I am a Senior Full Stack Web Dev with a decade of experience helping brands tell their story online. Currently I work full time for [REDspace](redspace.com) and I geek out over clean code, sleek interfaces, and buttery smooth UX. I also sometimes blog on [Dev.to](https://dev.to/mike-at-redspace).
 
 # Did you know…?
 
@@ -8,6 +8,8 @@ I am a Senior Full Stack Web Dev with a decade of experience helping brands tell
 - 👨‍👩‍👧‍👦  My wonderful wife Amanda and I have 2 amazing teenagers, Logan & Kaity ❤️
 - 🤔  I am addictive to problem solving, I live to chase the dopamine-reward rush when code works as intended
 - 🍺  I love craft beer, it's hard to pick a favourite but [FORGOTTEN LAKE BLUEBERRY ALE](https://www.lowbrewco.com/forgotten-lake/) comes pretty close
+
+If you have an interesting project you can read my [sales pitch](https://i-heart-php.github.io/me/) or connect with me on [LinkedIn](https://www.linkedin.com/in/mvardy/).
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/mike-at-redspace/mike-at-redspace/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/mike-at-redspace/mike-at-redspace/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
