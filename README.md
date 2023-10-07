@@ -1,6 +1,6 @@
 Hi I'm Mike Vardy! 👋 
 
-I am a Senior Full Stack Web Dev with a decade of experience helping brands tell their story online. Currently I work full time for [REDspace](redspace.com) and I geek out over clean code, sleek interfaces, and buttery smooth UX. I also sometimes blog on [Dev.to](https://dev.to/mike-at-redspace).
+I am a Senior Full Stack Web Dev with a decade of experience helping brands tell their story online. Currently I work full time for [REDspace](redspace.com) and I geek out over clean code, sleek interfaces, and buttery smooth UX. I sometimes blog on [Dev.to](https://dev.to/mike-at-redspace) or you can find me on tinkering on [CodePen](https://codepen.io/mike-at-redspace).
 
 # Did you know…?
 
